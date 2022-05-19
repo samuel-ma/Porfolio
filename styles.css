@@ -110,7 +110,7 @@ body{
 }
 
 .collections:hover{
-  background-color: #FFF500;
+  background-color: red;
   color: white;
   border-color: white;
 }
@@ -252,7 +252,7 @@ body{
 
 .reach-out:hover{
   color: #383838;
-  background-color: #FFF500;
+  background-color: red;
 }
 
 .reach-out-text{
