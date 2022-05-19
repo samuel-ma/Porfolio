@@ -251,7 +251,7 @@ body{
 }
 
 .reach-out:hover{
-  color: #383838;
+  color: ghost-white;
   background-color: red;
 }
 
