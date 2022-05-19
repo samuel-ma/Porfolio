@@ -112,7 +112,7 @@ body{
 .collections:hover{
   background-color: red;
   color: white;
-  border-color: none;
+  border-color: white;
 }
 
 .email{
