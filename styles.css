@@ -25,7 +25,7 @@ body{
   right: 0;
   left: 0;
   height: 70px;
-  background-color: red;
+  background-color: #FFF500;
 }
 
 .vertical{
@@ -35,7 +35,7 @@ body{
   top: 0;
   bottom: 0;
   width: 70px;
-  background-color: red;
+  background-color: #FFF500;
 }
 
 .header{
@@ -110,7 +110,7 @@ body{
 }
 
 .collections:hover{
-  background-color: red;
+  background-color: #FFF500;
   color: white;
   border-color: white;
 }
@@ -158,7 +158,7 @@ body{
 .social-icons{
   z-index: 600;
   position: absolute;
-  bottom: 10px;
+  top: 150px;
   right: 10px;
 }
 
@@ -222,7 +222,7 @@ body{
 }
 
 .design{
-  color: white;
+  color: #383838;
   font-weight: 300;
   margin-top:5px;
   margin-bottom:10px;
@@ -240,7 +240,7 @@ body{
 
 .reach-out{
   cursor: pointer;
-  width: fit-content;
+  width: 90px;
   padding-right: 45px;
   padding-left: 45px;
   padding-top: 10px;
@@ -251,8 +251,8 @@ body{
 }
 
 .reach-out:hover{
-  color: ghost-white;
-  background-color: red;
+  color: #383838;
+  background-color: #FFF500;
 }
 
 .reach-out-text{
