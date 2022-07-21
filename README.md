@@ -3,7 +3,6 @@
 
 <h1>Project Name</h1>
 <p>Personal Portfolio</p>
-<p>Personal branding</p>
 
 <h2>General Information</h2>
 
