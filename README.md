@@ -6,7 +6,7 @@
 
 <h2>General Information</h2>
 <ul>
-  <h3>Built using the following tools</h3>
+<h3>Built using the following tools</h3>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
