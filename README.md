@@ -14,3 +14,7 @@
  
  ![portfolio](https://user-images.githubusercontent.com/82509653/180321156-e2ef47ed-f764-466d-96c7-9dcbe2f049db.PNG)
 
+``bash javascript
+function add(num1, num2){
+  return num1 + num2;
+  }
